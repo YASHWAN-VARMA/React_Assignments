@@ -5,5 +5,4 @@ const DisplayCount = ({count}) => {
     <h1>{count}</h1>
   )
 }
-
 export default DisplayCount
