@@ -4,6 +4,7 @@ import Report from './Report'
 import Counter from './Counter'
 import Appforcountprops from './Appforcountprops'
 import Tododisplay from './Tododisplay'
+import Likes from './Likes'
 const App = () => {
   return (
     <>
@@ -11,6 +12,7 @@ const App = () => {
     <Counter/>
     <Appforcountprops/>
     <Tododisplay/>
+    <Likes/>
     </>
   )
 }
